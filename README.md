@@ -1,5 +1,4 @@
 # WidEye-CoreSix — Environmental Spatial AI System
-![alt text](panel_wideye-coresix.png)
 ![alt text](logo_wideye-coresix.png)
 **Kiến trúc AI nhận diện và định vị vật thể trong môi trường không gian thời gian thực.**  
 Series phát triển: v1 → v2 → v3 → v4 → **v5 Ultra** (file hiện tại)
@@ -633,3 +632,4 @@ wideeye_v5.pth          ← Checkpoint (sau khi train)
 ---
 
 *WidEye-CoreSix v5 Ultra — Environmental Spatial AI*
+![alt text](panel_wideye-coresix.png)
