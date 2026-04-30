@@ -25,7 +25,7 @@ The project has evolved through six distinct stages, each refining the "brain" o
 | **V3** | **Contextual Awareness** | [Branch: v3-context](#) |
 | **V4** | **Neural Optimization** | [Branch: v4-neural](#) |
 | **V5** | **Real-time Reasoning** | [Branch: v5-reasoning](#) |
-| **V6** | **The Core Six (Current)** | [Branch: v6-core-six](#) |
+| **V6** | **The Core Six (Current)** | [Branch: the_eye_v6_omega](#) |
 
 ---
 
