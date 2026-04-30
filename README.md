@@ -632,4 +632,4 @@ wideeye_v5.pth          ← Checkpoint (sau khi train)
 ---
 
 *WidEye-CoreSix v5 Ultra — Environmental Spatial AI*
-![alt text](panel_wideye-coresix.png)
+![alt text](panel_wideye-coresix_v5ultra.png)
