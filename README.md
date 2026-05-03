@@ -26,6 +26,9 @@ The project has evolved through six distinct stages, each refining the "brain" o
 | **V4** | **Neural Optimization** | [Branch: v4-neural](#) |
 | **V5** | **Real-time Reasoning** | [Branch: v5-reasoning](#) |
 | **V6** | **The Eye V6 Omega** | [Branch: The_Eye_V6_Omega](#) |
+| **V7** | **The Eye V6 Omega** | [Branch: The_Eye_V6_Omega](#) |
+| **V8** | **The Eye V6 Omega** | [Branch: The_Eye_V6_Omega](#) |
+| **V9** | **The Eye V6 Omega** | [Branch: The_Eye_V6_Omega](#) |
 
 ---
 
